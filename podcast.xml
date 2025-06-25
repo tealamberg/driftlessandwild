@@ -4,23 +4,23 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
 
-  <channel>
-    <title>Driftless and Wild</title>
-    <link>https://www.instagram.com/wildroot_ed</link>
-    <language>en-us</language>
-    <itunes:author>Teala Amberg</itunes:author>
-       <itunes:author>Teala Amberg</itunes:author>
-     <itunes:owner>
-  <itunes:name>Teala Amberg</itunes:name>
-  <itunes:email>amberg.teala@gmail.com</itunes:email>
-</itunes:owner>
-<itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning...</itunes:summary>
-    <itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</itunes:summary>
-    <description>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</description>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:category text="Education">
+ <channel>
+  <title>Driftless and Wild</title>
+  <link>https://www.instagram.com/wildroot_ed</link>
+  <language>en-us</language>
+  <itunes:author>Teala Amberg</itunes:author>
+  <itunes:owner>
+    <itunes:name>Teala Amberg</itunes:name>
+    <itunes:email>amberg.teala@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</itunes:summary>
+  <description>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</description>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:category text="Education">
     <itunes:category text="Self-Improvement"/>
-    </itunes:category>
+  </itunes:category>
+  <itunes:image href="https://i.imgur.com/FwELmNf.jpeg"/>
+  <atom:link href="https://tealamberg.github.io/driftlessandwild/podcast.xml" rel="self" type="application/rss+xml"/>
 
     <itunes:image href="https://i.imgur.com/FwELmNf.jpeg"/>
     <atom:link href="https://tealamberg.github.io/driftlessandwild/podcast.xml" rel="self" type="application/rss+xml"/>
