@@ -4,24 +4,21 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:atom="http://www.w3.org/2005/Atom">
 
- <channel>
-  <title>Driftless and Wild</title>
-  <link>https://www.instagram.com/wildroot_ed</link>
-  <language>en-us</language>
-  <itunes:author>Teala Amberg</itunes:author>
-  <itunes:owner>
-    <itunes:name>Teala Amberg</itunes:name>
-    <itunes:email>amberg.teala@gmail.com</itunes:email>
-  </itunes:owner>
-  <itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</itunes:summary>
-  <description>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</description>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:category text="Education">
-    <itunes:category text="Self-Improvement"/>
-  </itunes:category>
-  <itunes:image href="https://i.imgur.com/FwELmNf.jpeg"/>
-  <atom:link href="https://tealamberg.github.io/driftlessandwild/podcast.xml" rel="self" type="application/rss+xml"/>
-
+  <channel>
+    <title>Driftless and Wild</title>
+    <link>https://www.instagram.com/wildroot_ed</link>
+    <language>en-us</language>
+    <itunes:author>Teala Amberg</itunes:author>
+    <itunes:owner>
+      <itunes:name>Teala Amberg</itunes:name>
+      <itunes:email>amberg.teala@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</itunes:summary>
+    <description>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Education">
+      <itunes:category text="Self-Improvement"/>
+    </itunes:category>
     <itunes:image href="https://i.imgur.com/FwELmNf.jpeg"/>
     <atom:link href="https://tealamberg.github.io/driftlessandwild/podcast.xml" rel="self" type="application/rss+xml"/>
 
@@ -38,13 +35,13 @@
     </item>
 
     <item>
-  <title>Episode 2: Let Them Be Wild – Camaraderie, Curiosity &amp; Calm</title>
-  <description><![CDATA[In this episode of Driftless &amp; Wild, Teala reflects on two powerful weeks of wildschooling—where the children’s natural camaraderie, curiosity, and calm shone through. With zero behavior issues and endless exploration, this episode weaves personal experience with research on outdoor play, risky movement, and neurological development.]]></description>
-  <enclosure url="https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3" length="12345678" type="audio/mpeg" />
-  <guid>https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3</guid>
-  <pubDate>Wed, 26 Jun 2025 08:00:00 GMT</pubDate>
-  <itunes:duration>20:00</itunes:duration>
-</item>
+      <title>Episode 2: Let Them Be Wild – Camaraderie, Curiosity &amp; Calm</title>
+      <description><![CDATA[In this episode of Driftless &amp; Wild, Teala reflects on two powerful weeks of wildschooling—where the children’s natural camaraderie, curiosity, and calm shone through. With zero behavior issues and endless exploration, this episode weaves personal experience with research on outdoor play, risky movement, and neurological development.]]></description>
+      <enclosure url="https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3" length="12345678" type="audio/mpeg" />
+      <guid>https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3</guid>
+      <pubDate>Wed, 26 Jun 2025 08:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+    </item>
 
   </channel>
 </rss>
