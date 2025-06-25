@@ -34,7 +34,9 @@
        <enclosure url="https://ia600900.us.archive.org/8/items/episode-2-mp-3/EPISODE%202%20-%20MP3.mp3" length="12345678" type="audio/mpeg" />
        <guid>https://ia600900.us.archive.org/8/items/episode-2-mp-3/EPISODE%202%20-%20MP3.mp3</guid>
        <pubDate>Wed, 26 Jun 2025 08:00:00 GMT</pubDate>
+       <itunes:duration>20:00</itunes:duration>
     </item>
+
      
   </channel>
 </rss>
