@@ -43,5 +43,17 @@
       <itunes:duration>20:00</itunes:duration>
     </item>
 
+    <item>
+     <title>Episode 3: Food, Feelings & Finding Balance</title>
+     <itunes:author>Teala Amberg</itunes:author>
+     <itunes:summary>In this episode of Driftless & Wild, Teala shares how food, weather, and simple outdoor living can transform childhood behavior and well-being.</itunes:summary>
+     <description><![CDATA[Teala talks food, wild play, and how balance starts with outdoor freedom.]]></description>
+     <enclosure url="YOUR_AUDIO_LINK_HERE" length="12345678" type="audio/mpeg" />
+     <guid>YOUR_AUDIO_LINK_HERE</guid>
+     <pubDate>Mon, 8 July 2025 08:00:00 GMT</pubDate>
+     <itunes:duration>20:00</itunes:duration>
+</item>
+
+
   </channel>
 </rss>
