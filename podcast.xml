@@ -68,5 +68,14 @@
   <itunes:duration>20:00</itunes:duration>
 </item>
 
+       <item>
+  <title>Episode 5 - Start Scared, Stay Wild</title>
+  <description>This episode explores the importance of doing things that scare us as a form of modeling bravery, growth, and wild freedom for our kids. Plus, Teala shares easy summer play ideas that cost nothing and require no travel.</description>
+  <pubDate>Thu, 25 Jul 2025 15:18:00 -0600</pubDate>
+  <enclosure url="https://ia801006.us.archive.org/16/items/episode-5-7-25-25-3.18-pm/EPISODE%205%20-%207%3A25%3A25%2C%203.18%E2%80%AFPM.mp3" length="12345678" type="audio/mpeg"/>
+  <guid>episode-5-7-25</guid>
+</item>
+
+
   </channel>
 </rss>
