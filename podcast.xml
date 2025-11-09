@@ -8,20 +8,29 @@
     <title>Driftless and Wild</title>
     <link>https://www.instagram.com/wildroot_ed</link>
     <language>en-us</language>
+
     <itunes:author>Teala Amberg</itunes:author>
     <itunes:owner>
       <itunes:name>Teala Amberg</itunes:name>
       <itunes:email>amberg.teala@gmail.com</itunes:email>
     </itunes:owner>
+
     <itunes:summary>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</itunes:summary>
+
     <description>Driftless and Wild is a podcast about reclaiming childhood through outdoor play, simple living, and wild learning. Hosted by Teala — a Minnesota mama, special education teacher, and nature enthusiast — each episode explores how to raise curious, confident kids who thrive outside. From dirt to discovery, this is your space for stories, tips, and encouragement to help your family live wildly and root deeply.</description>
+
     <itunes:explicit>no</itunes:explicit>
+
     <itunes:category text="Education">
       <itunes:category text="Self-Improvement"/>
     </itunes:category>
+
     <itunes:image href="https://i.imgur.com/FwELmNf.jpeg"/>
+
     <atom:link href="https://tealamberg.github.io/driftlessandwild/podcast.xml" rel="self" type="application/rss+xml"/>
 
+
+    <!-- Episode 1 -->
     <item>
       <title>Welcome to Driftless and Wild</title>
       <itunes:author>Teala Amberg</itunes:author>
@@ -34,70 +43,85 @@
       <itunes:explicit>no</itunes:explicit>
     </item>
 
+
+    <!-- Episode 2 -->
     <item>
-  <title>Episode 2: Let Them Be Wild – Camaraderie, Curiosity &amp; Calm</title>
-  <itunes:author>Teala Amberg</itunes:author>
-  <itunes:summary>In this episode of Driftless &amp; Wild, Teala reflects on two powerful weeks of wildschooling, where the children’s natural camaraderie, curiosity, and calm shone through.</itunes:summary>
-  <description><![CDATA[In this episode of Driftless &amp; Wild, Teala reflects on two powerful weeks of wildschooling—where the children’s natural camaraderie, curiosity, and calm shone through. With zero behavior issues and endless exploration, this episode weaves personal experience with research on outdoor play, risky movement, and neurological development.]]></description>
-  <enclosure url="https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3" length="12345678" type="audio/mpeg" />
-  <guid>https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3</guid>
-  <pubDate>Wed, 26 Jun 2025 08:00:00 GMT</pubDate>
-  <itunes:duration>20:00</itunes:duration>
-</item>
+      <title>Episode 2: Let Them Be Wild – Camaraderie, Curiosity &amp; Calm</title>
+      <itunes:author>Teala Amberg</itunes:author>
+      <itunes:summary>In this episode of Driftless &amp; Wild, Teala reflects on two powerful weeks of wildschooling, where the children’s natural camaraderie, curiosity, and calm shone through.</itunes:summary>
+      <description><![CDATA[
+In this episode of Driftless & Wild, Teala reflects on two powerful weeks of wildschooling—where the children’s natural camaraderie, curiosity, and calm shone through. With zero behavior issues and endless exploration, this episode weaves personal experience with research on outdoor play, risky movement, and neurological development.
+      ]]></description>
+      <enclosure url="https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://ia600900.us.archive.org/8/items/episode-2-mp-3/ep2.mp3</guid>
+      <pubDate>Wed, 26 Jun 2025 08:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-       
-<item>
-  <title>Episode 3: Food, Feelings &amp; Finding Balance</title>
-  <itunes:author>Teala Amberg</itunes:author>
-  <itunes:summary>In this episode of Driftless &amp; Wild, Teala shares how mindful eating, outdoor play, and embracing all weather can help bring calm, joy, and balance to childhood and beyond.</itunes:summary>
-  <description><![CDATA[In Episode 3, Teala explores the powerful connection between food, behavior, and the simple magic of outdoor play—plus how to find balance even on the busiest days.]]></description>
-  <enclosure url="https://ia600901.us.archive.org/20/items/episode-audio-566-ec-0-d-2-917-c-431-b-a-375-b-30-e-1048-d-500-2/EPISODE%203%20.mp3" length="12345678" type="audio/mpeg" />
-  <guid>https://ia600901.us.archive.org/20/items/episode-audio-566-ec-0-d-2-917-c-431-b-a-375-b-30-e-1048-d-500-2/EPISODE%203%20.mp3</guid>
-  <pubDate>Mon, 08 Jul 2025 08:00:00 GMT</pubDate>
-  <itunes:duration>20:00</itunes:duration>
-</item>
 
-       <item>
-  <title>Episode 4: Self-Care Starts with You</title>
-  <itunes:author>Teala Amberg</itunes:author>
-  <itunes:summary>In this episode of Driftless &amp; Wild, Teala explores why prioritizing self-care as a parent is not selfish — it’s essential. Learn how journaling, movement, nourishment, sunshine, and intentional living ripple out to benefit your children and your whole home rhythm.</itunes:summary>
-  <description><![CDATA[Teala reflects on the importance of modeling self-care and authentic emotional regulation as a parent. From simple moments of rest to mindful routines, this episode helps you reclaim your role as a regulated, rooted adult raising resilient kids.]]></description>
-  <enclosure url="https://ia903202.us.archive.org/1/items/episode-4_20250715/EPISODE%204.mp3" length="12345678" type="audio/mpeg" />
-  <guid>https://ia903202.us.archive.org/1/items/episode-4_20250715/EPISODE%204.mp3</guid>
-  <pubDate>Mon, 15 Jul 2025 08:00:00 GMT</pubDate>
-  <itunes:duration>20:00</itunes:duration>
-</item>
+    <!-- Episode 3 -->
+    <item>
+      <title>Episode 3: Food, Feelings &amp; Finding Balance</title>
+      <itunes:author>Teala Amberg</itunes:author>
+      <itunes:summary>In this episode of Driftless &amp; Wild, Teala shares how mindful eating, outdoor play, and embracing all weather can help bring calm, joy, and balance to childhood and beyond.</itunes:summary>
+      <description><![CDATA[
+In Episode 3, Teala explores the powerful connection between food, behavior, and the simple magic of outdoor play — plus how to find balance even on the busiest days.
+      ]]></description>
+      <enclosure url="https://ia600901.us.archive.org/20/items/episode-audio-566-ec-0-d-2-917-c-431-b-a-375-b-30-e-1048-d-500-2/EPISODE%203%20.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://ia600901.us.archive.org/20/items/episode-audio-566-ec-0-d-2-917-c-431-b-a-375-b-30-e-1048-d-500-2/EPISODE%203%20.mp3</guid>
+      <pubDate>Mon, 08 Jul 2025 08:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
-<item>
-  <title>Episode 5 – Be Brave, Be Wild</title>
-  <itunes:author>Teala Amberg</itunes:author>
-  <itunes:summary>This episode explores how facing our fears and starting things that scare us can positively model behavior for our children. Plus, simple summer activities you can do at home without spending a dime.</itunes:summary>
-  <description><![CDATA[
-    This episode explores how facing our fears and starting things that scare us can positively model behavior for our children. Plus, simple summer activities you can do at home without spending a dime.
-  ]]></description>
-  <link>https://www.instagram.com/wildroot_ed</link>
-  <enclosure url="https://ia601405.us.archive.org/12/items/episode-5-072525-318-pm/EPISODE-5-072525-318PM.mp3" length="27367833" type="audio/mpeg"/>
-  <guid>episode-5-072525</guid>
-  <pubDate>Thu, 25 Jul 2025 15:18:00 -0500</pubDate>
-  <itunes:duration>20:00</itunes:duration>
-  <itunes:explicit>no</itunes:explicit>
-</item>
-       
-<item>
-    <title>Episode 6 — Modeling Behavior & Choosing Intentional Responses</title>
-    <description><![CDATA[
-In Episode 6 of Driftless & Wild, we explore what it really means to model behavior for our children. From technology habits to emotional regulation, we talk about choosing responses instead of reactions, showing our kids what effort over perfection looks like, and creating a home environment rooted in intention and connection.  
-    ]]></description>
-    <link>https://dn720706.ca.archive.org/0/items/episode_202508/episode.mp3</link>
-    <guid isPermaLink="false">episode6-202508</guid>
-    <enclosure 
-        url="https://dn720706.ca.archive.org/0/items/episode_202508/episode.mp3"
-        length="0"
-        type="audio/mpeg" />
-    <pubDate>Mon, 03 Feb 2025 09:00:00 -0600</pubDate>
-</item>
 
-       
+    <!-- Episode 4 -->
+    <item>
+      <title>Episode 4: Self-Care Starts with You</title>
+      <itunes:author>Teala Amberg</itunes:author>
+      <itunes:summary>Why prioritizing self-care as a parent is not selfish — it’s essential.</itunes:summary>
+      <description><![CDATA[
+Teala reflects on the importance of modeling self-care and authentic emotional regulation as a parent. From simple moments of rest to mindful routines, this episode helps you reclaim your role as a regulated, rooted adult raising resilient kids.
+      ]]></description>
+      <enclosure url="https://ia903202.us.archive.org/1/items/episode-4_20250715/EPISODE%204.mp3" length="12345678" type="audio/mpeg"/>
+      <guid>https://ia903202.us.archive.org/1/items/episode-4_20250715/EPISODE%204.mp3</guid>
+      <pubDate>Mon, 15 Jul 2025 08:00:00 GMT</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+
+    <!-- Episode 5 -->
+    <item>
+      <title>Episode 5 – Be Brave, Be Wild</title>
+      <itunes:author>Teala Amberg</itunes:author>
+      <itunes:summary>This episode explores how facing our fears and starting things that scare us can positively model behavior for our children.</itunes:summary>
+      <description><![CDATA[
+This episode explores how facing our fears and starting things that scare us can positively model behavior for our children — plus simple summer activities you can do at home without spending a dime.
+      ]]></description>
+      <enclosure url="https://ia601405.us.archive.org/12/items/episode-5-072525-318-pm/EPISODE-5-072525-318PM.mp3" length="27367833" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode5-072525</guid>
+      <pubDate>Thu, 25 Jul 2025 15:18:00 -0500</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
+
+
+    <!-- Episode 6 -->
+    <item>
+      <title>Episode 6 — Modeling Behavior & Choosing Intentional Responses</title>
+      <itunes:author>Teala Amberg</itunes:author>
+      <itunes:summary>What it truly means to model behavior for children — from tech habits to emotional regulation and choosing responses over reactions.</itunes:summary>
+      <description><![CDATA[
+In Episode 6 of Driftless & Wild, we explore what it really means to model behavior for our children. From technology habits to emotional regulation, we talk about choosing responses instead of reactions, showing our kids what effort over perfection looks like, and creating a home environment rooted in intention and connection.
+      ]]></description>
+      <enclosure url="https://dn720706.ca.archive.org/0/items/episode_202508/episode.mp3" length="12345678" type="audio/mpeg"/>
+      <guid isPermaLink="false">episode6-202508</guid>
+      <pubDate>Mon, 03 Feb 2025 09:00:00 -0600</pubDate>
+      <itunes:duration>20:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
 
   </channel>
 </rss>
