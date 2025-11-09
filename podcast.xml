@@ -82,6 +82,22 @@
   <itunes:duration>20:00</itunes:duration>
   <itunes:explicit>no</itunes:explicit>
 </item>
+       
+<item>
+    <title>Episode 6 — Modeling Behavior & Choosing Intentional Responses</title>
+    <description><![CDATA[
+In Episode 6 of Driftless & Wild, we explore what it really means to model behavior for our children. From technology habits to emotional regulation, we talk about choosing responses instead of reactions, showing our kids what effort over perfection looks like, and creating a home environment rooted in intention and connection.  
+    ]]></description>
+    <link>https://dn720706.ca.archive.org/0/items/episode_202508/episode.mp3</link>
+    <guid isPermaLink="false">episode6-202508</guid>
+    <enclosure 
+        url="https://dn720706.ca.archive.org/0/items/episode_202508/episode.mp3"
+        length="0"
+        type="audio/mpeg" />
+    <pubDate>Mon, 03 Feb 2025 09:00:00 -0600</pubDate>
+</item>
+
+       
 
   </channel>
 </rss>
